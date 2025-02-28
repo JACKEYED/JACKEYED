@@ -1,4 +1,4 @@
-# 🌐 Hi, I'm [你的名字] 👋
+# 🌐 Hi, I'm 高博远 👋
 
 <!-- GitHub Profile Summary -->
 <p align="center">
@@ -9,8 +9,8 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **[项目名称]** — 探索[项目描述]，致力于通过[技术/方法]解决[具体问题]。
-- 🌱 I’m currently learning **[技术/语言/工具]**，深入研究其在[领域]中的应用，为未来项目赋能。
+- 🔭 I’m currently working on Agent — 探索人工智能Agent。
+- 🌱 I’m currently learning LLM，深入研究其在LLM中的应用，为未来项目赋能。
 - 👯 I’m looking to collaborate on **开源项目、创新技术研究**，以及任何与[你的专业领域]相关的项目。如果你有想法，欢迎联系！
 - 🤔 I’m looking for help with **[技术难题/项目需求]**，特别是在[具体领域]的优化和改进方面。如果你有经验，希望能得到你的指导！
 - 💬 Ask me about **[你的专业领域]**、**[技术专长]**，或者任何关于[兴趣爱好]的话题。我总是乐于分享和交流！
